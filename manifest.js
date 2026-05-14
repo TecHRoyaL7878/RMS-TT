@@ -1,0 +1,17 @@
+{
+  "name": "RMS TIMETABLE",
+  "short_name": "RMS",
+  "description": "Official time table management application.",
+  "start_url": "/RMS-TT/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a3a6d",
+  "icons": [
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
